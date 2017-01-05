@@ -1,4 +1,7 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt f12" />
+  </action>
   <action id="DatabaseView.Tools.TruncateTableAction">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
