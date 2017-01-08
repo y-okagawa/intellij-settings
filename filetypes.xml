@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="client_signature" type="Blade" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
