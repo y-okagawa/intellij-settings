@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/ansible/roles/nginx/tasks/main.yml" timestamp="1485309163898">
+        <mark key="[" line="72" column="20" />
+      </file>
       <file name="/dummy.sql" timestamp="1485307567591">
         <mark key="[" line="0" column="0" />
       </file>
