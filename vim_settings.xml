@@ -13,7 +13,7 @@
       <file name="/a.dummy" timestamp="1485314215388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485315855331">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485321144184">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="25" />
         <mark key="." line="22" column="25" />
@@ -29,6 +29,7 @@
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/config/const.php" timestamp="1485315831161" />
       <file name="dbtable:/b3a0302c/cfc26562-6008-4a65-a42b-2d318cc26a14/bstar_accept_extension.T_EXTENSION_CONTRACT_FOLLOW" timestamp="1485314920235" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Middleware/Authenticate.php" timestamp="1485321873228" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/_ide_helper.php" timestamp="1485313520521" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485314862398" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/auth.php" timestamp="1485314226641" />
