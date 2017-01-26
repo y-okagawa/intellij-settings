@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/contractFinish/contractFinish.jsx" timestamp="1485422570855">
+        <mark key="[" line="43" column="50" />
+        <mark key="]" line="43" column="64" />
+        <mark key="." line="43" column="64" />
+        <mark key="^" line="43" column="64" />
+      </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/routes.php" timestamp="1485311455138">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="36" />
@@ -31,7 +37,7 @@
         <mark key="." line="22" column="29" />
         <mark key="^" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ExtensionController.php" timestamp="1485414886388">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ExtensionController.php" timestamp="1485422710705">
         <mark key="[" line="24" column="79" />
         <mark key="]" line="24" column="79" />
         <mark key="^" line="24" column="79" />
@@ -46,7 +52,11 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485314862398" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485424090707">
+        <mark key="[" line="47" column="63" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/messages.php" timestamp="1485337931772">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="33" />
@@ -66,10 +76,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88bcf4df-938c-4e7d-ba5a-39c13ce4b232/console.sql" timestamp="1485395723619">
         <mark key="[" line="0" column="1814" />
       </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/PasswordController.php" timestamp="1485423729971" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/extension/extension.jsx" timestamp="1485414727162">
         <mark key="[" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485314891075" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485424004748" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/config/session.php" timestamp="1485313716320">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="26" />
@@ -100,46 +111,41 @@
       <jump line="23" column="12" filename="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EXTENSION_CONTRACT_FOLLOW_ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>EXTENSION_CONTRACT_FOLLOW_ID</text>
+        <text>coon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0VYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1dfSUQnID0+ICdyZXF1aXJlZHxudW1lcmljJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1dfSUQ6IHNlbGYucHJvcHMuY2xpZW50LkVYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1dfSUQsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>use App\Components\CustomLengthAwarePaginator;
-
-use App\Http\Requests;
-use App\Http\Controllers\Controller;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>use Input;
-use Route;
-use Validator;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXR1cm4pIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc3VjY2Vzc0NudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ21lc3NhZ2UnXSA9IHRyYW5zKCdtZXNzYWdlcy5jb21tb24uZGF0YUNoYW5nZUZhaWxlZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1czo6ZGlzcGF0Y2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZmFpbHVyZUNudCA9IGNvdW50KCRjbGllbnRzKSAtICRzdWNjZXNzQ250Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ3N1Y2Nlc3NfZmxnJ10gPSB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ2NsdF9yZXBseV9zdGF0dXMnXSA9IGNvbmZpZygnY29uc3QuY2x0X3JlcGx5X3N0YXR1cy5leHRlbnNpb24uY29kZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ3ZlcnNpb24nXSA9ICRkYXRhLT5WRVJTSU9OX05VTUJFUjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9IFtdOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgaWYoU2Vzc2lvbjo6aGFzKCdzdGF0dXMnKSl7CiAgICAgICAgICAgICAgICAgICAgU2Vzc2lvbjo6cmVmbGFzaCgpOwo+Pj4+Pj4+IDcyODkwYjMxOTdmNTkwMmEzZTdiOTc1YzU0N2YxZDdlZWY2Mzk5YTY=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPnNlbGVjdCgnVF9FWFRFTlNJT05fQ09OVFJBQ1RfRk9MTE9XLlZFUlNJT05fTlVNQkVSJyktPmZpcnN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -159,7 +165,11 @@ use Validator;</text>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
