@@ -3,35 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailFmNotification.php" timestamp="1485338320432">
-        <mark key="[" line="358" column="29" />
-        <mark key="]" line="358" column="30" />
-        <mark key="^" line="358" column="29" />
-        <mark key="." line="358" column="30" />
-      </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/routes.php" timestamp="1485311455138">
         <mark key="[" line="41" column="34" />
         <mark key="]" line="41" column="36" />
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/ContractExtension.php" timestamp="1485338464020">
-        <mark key="[" line="70" column="139" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Api/BstarApi.php" timestamp="1485338561135">
-        <mark key="[" line="121" column="19" />
-        <mark key="]" line="121" column="22" />
-        <mark key="^" line="121" column="22" />
-        <mark key="." line="121" column="22" />
-      </file>
       <file name="/a.dummy" timestamp="1485314215388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485335399881">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="62" column="11" />
         <mark key="]" line="61" column="15" />
         <mark key="." line="61" column="15" />
         <mark key="^" line="61" column="15" />
@@ -46,10 +28,10 @@
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485314862398" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/messages.php" timestamp="1485337931772">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="33" />
+        <mark key="^" line="38" column="33" />
+        <mark key="." line="38" column="33" />
       </file>
       <file name="/a.sql" timestamp="1485334491024">
         <mark key="[" line="0" column="0" />
@@ -59,12 +41,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" timestamp="1485313437191" />
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485334517580">
-        <mark key="[" line="163" column="45" />
-        <mark key="]" line="163" column="52" />
-        <mark key="^" line="163" column="52" />
-        <mark key="." line="163" column="52" />
-      </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485334517580" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/views/decide/decide.blade.php" timestamp="1485311215281" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485314891075" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/config/session.php" timestamp="1485313716320">
@@ -74,12 +51,6 @@
         <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/_ide_helper.php" timestamp="1485313520521" />
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailClientNotification.php" timestamp="1485335750570">
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="^" line="282" column="164" />
-        <mark key="." line="282" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1485336473735">
         <mark key="[" line="0" column="1" />
       </file>
