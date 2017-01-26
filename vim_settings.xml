@@ -62,6 +62,7 @@
         <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/_ide_helper.php" timestamp="1485313520521" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailClientNotification.php" timestamp="1485404259438" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1485396370893">
         <mark key="[" line="0" column="1" />
       </file>
