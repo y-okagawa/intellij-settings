@@ -12,19 +12,21 @@
       <file name="/a.dummy" timestamp="1485314215388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485335399881">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485392495296">
         <mark key="'" line="23" column="12" />
-        <mark key="]" line="61" column="15" />
-        <mark key="." line="61" column="15" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
         <mark key="^" line="61" column="15" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" timestamp="1485313306298" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/config/const.php" timestamp="1485315831161" />
       <file name="dbtable:/b3a0302c/cfc26562-6008-4a65-a42b-2d318cc26a14/bstar_accept_extension.T_EXTENSION_CONTRACT_FOLLOW" timestamp="1485314920235" />
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Middleware/Authenticate.php" timestamp="1485329705388">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Middleware/Authenticate.php" timestamp="1485392519723">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+        <mark key="^" line="46" column="33" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485314862398" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/messages.php" timestamp="1485337931772">
@@ -37,7 +39,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/auth.php" timestamp="1485314226641" />
-      <file name="/dummy.sql" timestamp="1485336846725">
+      <file name="/dummy.sql" timestamp="1485392420687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" timestamp="1485313437191" />
@@ -63,10 +65,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>today</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>today</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnc2VuZFJlc3VsdCcgICAgICAgICAgPT4gJ+ODoeODvOODq+mAgeS/oeWun+ihjDog5oiQ5YqfIDpzdWNjZXNz5Lu2LCDlpLHmlZcgOmZhaWx1cmXku7YnLAo=</text>
