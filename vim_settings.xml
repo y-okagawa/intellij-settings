@@ -18,12 +18,18 @@
       <file name="/a.dummy" timestamp="1485314215388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485413385140">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485415259295">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="67" column="9" />
-        <mark key="]" line="67" column="13" />
-        <mark key="." line="67" column="13" />
-        <mark key="^" line="67" column="13" />
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ExtensionController.php" timestamp="1485414886388">
+        <mark key="[" line="24" column="79" />
+        <mark key="]" line="24" column="79" />
+        <mark key="^" line="24" column="79" />
+        <mark key="." line="24" column="79" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php" timestamp="1485313306298" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/config/const.php" timestamp="1485315831161" />
@@ -55,6 +61,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88bcf4df-938c-4e7d-ba5a-39c13ce4b232/console.sql" timestamp="1485395723619">
         <mark key="[" line="0" column="1814" />
       </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/extension/extension.jsx" timestamp="1485414727162">
+        <mark key="[" line="32" column="19" />
+      </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485314891075" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/config/session.php" timestamp="1485313716320">
         <mark key="[" line="2" column="25" />
@@ -81,40 +90,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">dG9kYXkgICAg</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">dG9kYXkgICAg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJGNsdFJlcGx5U3RhdHVzIOOCr+ODqeOCpOOCouODs+ODiOaEj+aAneeKtuazgQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdUX0VYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1cuRVhURU5TSU9OX0NPTlRSQUNUX0ZPTExPV19JRCcsIC8vICBFWFRFTlNJT05fQ09OVFJBQ1RfRk9MTE9XX0lECg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc3VjY2Vzc0NudCA9IDA7Cg==</text>
+      <register name="1" type="4">
+        <text>use App\Components\CustomLengthAwarePaginator;
+
+use App\Http\Requests;
+use App\Http\Controllers\Controller;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1czo6ZGlzcGF0Y2goKTsK</text>
+      <register name="2" type="4">
+        <text>use Input;
+use Route;
+use Validator;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkZmFpbHVyZUNudCA9IGNvdW50KCRjbGllbnRzKSAtICRzdWNjZXNzQ250Owo=</text>
+        <text encoding="base64">ICAgICAgICAkc3VjY2Vzc0NudCA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJ1czo6ZGlzcGF0Y2goKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZmFpbHVyZUNudCA9IGNvdW50KCRjbGllbnRzKSAtICRzdWNjZXNzQ250Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgaWYoU2Vzc2lvbjo6aGFzKCdzdGF0dXMnKSl7CiAgICAgICAgICAgICAgICAgICAgU2Vzc2lvbjo6cmVmbGFzaCgpOwo+Pj4+Pj4+IDcyODkwYjMxOTdmNTkwMmEzZTdiOTc1YzU0N2YxZDdlZWY2Mzk5YTY=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PT09PT09PQogICAgICAgICAgICAgICAgaWYoU2Vzc2lvbjo6aGFzKCdzdGF0dXMnKSl7CiAgICAgICAgICAgICAgICAgICAgU2Vzc2lvbjo6cmVmbGFzaCgpOwo+Pj4+Pj4+IDcyODkwYjMxOTdmNTkwMmEzZTdiOTc1YzU0N2YxZDdlZWY2Mzk5YTY=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
