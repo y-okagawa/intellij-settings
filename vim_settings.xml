@@ -18,12 +18,18 @@
       <file name="/a.dummy" timestamp="1485314215388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485415259295">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Requests/ExtensionUpdateRequest.php" timestamp="1485416791136">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+      </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485416729282">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="." line="22" column="26" />
-        <mark key="^" line="22" column="26" />
+        <mark key="[" line="67" column="11" />
+        <mark key="]" line="67" column="13" />
+        <mark key="." line="67" column="13" />
+        <mark key="^" line="67" column="13" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ExtensionController.php" timestamp="1485414886388">
         <mark key="[" line="24" column="79" />
@@ -56,7 +62,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" timestamp="1485313437191" />
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485334517580" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/views/decide/decide.blade.php" timestamp="1485311215281" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88bcf4df-938c-4e7d-ba5a-39c13ce4b232/console.sql" timestamp="1485395723619">
         <mark key="[" line="0" column="1814" />
@@ -90,13 +95,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dG9kYXkgICAg</text>
+        <text>EXTENSION_CONTRACT_FOLLOW_ID</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dG9kYXkgICAg</text>
+        <text>EXTENSION_CONTRACT_FOLLOW_ID</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdUX0VYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1cuRVhURU5TSU9OX0NPTlRSQUNUX0ZPTExPV19JRCcsIC8vICBFWFRFTlNJT05fQ09OVFJBQ1RfRk9MTE9XX0lECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0VYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1dfSUQnID0+ICdyZXF1aXJlZHxudW1lcmljJywK</text>
       </register>
       <register name="1" type="4">
         <text>use App\Components\CustomLengthAwarePaginator;
