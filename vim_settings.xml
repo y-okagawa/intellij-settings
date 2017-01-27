@@ -116,7 +116,12 @@
       <file name="/dummy.sql" timestamp="1485499663277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485486436330" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485503039262">
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="52" column="19" />
+        <mark key="^" line="52" column="19" />
+        <mark key="." line="52" column="19" />
+      </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/views/decide/decide.blade.php" timestamp="1485311215281" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88bcf4df-938c-4e7d-ba5a-39c13ce4b232/console.sql" timestamp="1485481226485">
         <mark key="[" line="0" column="439" />
