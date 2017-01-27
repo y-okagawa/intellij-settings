@@ -46,6 +46,12 @@
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/decide/searchResult.jsx" timestamp="1485486908732" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" timestamp="1485313437191" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/PasswordController.php" timestamp="1485423729971" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Middleware/TrackAccessLog.php" timestamp="1485501960842">
+        <mark key="[" line="52" column="43" />
+        <mark key="]" line="52" column="80" />
+        <mark key="^" line="52" column="80" />
+        <mark key="." line="52" column="80" />
+      </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/config/session.php" timestamp="1485313716320">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="26" />
@@ -119,9 +125,9 @@
         <mark key="[" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485499551231">
-        <mark key="[" line="190" column="45" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
+        <mark key="[" line="189" column="45" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/TopController.php" timestamp="1485395416818">
         <mark key="[" line="10" column="15" />
@@ -138,11 +144,11 @@
       <jump line="32" column="26" filename="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/intention/intention.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9XT1JLRElSRUNUX0ZMRycgPT4gMCwK</text>
+      <register name="&quot;" type="4">
+        <text>$tClientAccountId</text>
       </register>
       <register name="-" type="4">
-        <text>return Response::json($result);</text>
+        <text>$tClientAccountId</text>
       </register>
       <register name="/" type="4">
         <text>confirmSelected</text>
