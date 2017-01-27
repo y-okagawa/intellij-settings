@@ -15,7 +15,7 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1485314215388">
+      <file name="/a.dummy" timestamp="1485499465307">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ExtensionController.php" timestamp="1485422710705">
@@ -36,7 +36,7 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485498067668" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485498886063" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/messages.php" timestamp="1485337931772">
         <mark key="[" line="38" column="8" />
         <mark key="]" line="38" column="33" />
@@ -62,8 +62,8 @@
         <mark key="." line="71" column="57" />
         <mark key="^" line="71" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1485396370893">
-        <mark key="[" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1485499159325">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/consultation/consultation.jsx" timestamp="1485497283420">
         <mark key="[" line="61" column="20" />
@@ -71,11 +71,10 @@
         <mark key="." line="61" column="22" />
         <mark key="^" line="61" column="22" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/IntentionController.php" timestamp="1485498197330">
-        <mark key="[" line="41" column="54" />
-        <mark key="]" line="41" column="67" />
-        <mark key="^" line="41" column="67" />
-        <mark key="." line="41" column="67" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/IntentionController.php" timestamp="1485499617117">
+        <mark key="[" line="72" column="9" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Api/BstarApi.php" timestamp="1485480485950">
         <mark key="[" line="124" column="86" />
@@ -108,7 +107,7 @@
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/AppModel.php" timestamp="1485409680393" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/auth.php" timestamp="1485314226641" />
-      <file name="/dummy.sql" timestamp="1485483876410">
+      <file name="/dummy.sql" timestamp="1485499663277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485486436330" />
@@ -119,10 +118,10 @@
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/extension/extension.jsx" timestamp="1485414727162">
         <mark key="[" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485482912657">
-        <mark key="[" line="172" column="45" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485499551231">
+        <mark key="[" line="190" column="45" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/TopController.php" timestamp="1485395416818">
         <mark key="[" line="10" column="15" />
@@ -139,11 +138,11 @@
       <jump line="32" column="26" filename="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/intention/intention.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EXTENSION_CONTRACT_FOLLOW_ID</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9XT1JLRElSRUNUX0ZMRycgPT4gMCwK</text>
       </register>
       <register name="-" type="4">
-        <text>EXTENSION_CONTRACT_FOLLOW_ID</text>
+        <text>return Response::json($result);</text>
       </register>
       <register name="/" type="4">
         <text>confirmSelected</text>
@@ -152,31 +151,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdFWFRFTlNJT05fQ09OVFJBQ1RfRk9MTE9XX0lEJzogc2VsZi5zdGF0ZS5jb25maXJtU2VsZWN0ZWQuRVhURU5TSU9OX0NPTlRSQUNUX0ZPTExPV19JRCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdUX0VYVEUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9XT1JLRElSRUNUX0ZMRycgPT4gMCwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9TWVNURU1DSEFOR0VfRkxHJyA9PiAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnNldFN0YXRlKHsgZXJyb3IgOiBlcnJvciB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9PVEhFUl9GTEcnID0+IDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgY2F0ZWdvcnkgPSBzZWxmLnByb3BzLndhbnRfY2hhbmdlX2NhdGVnb3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9FTlZJUk9NRU5UX0ZMRycgPT4gMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9TS0lMTF9GTEcnID0+IDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9NRU1PJyA9PiBudWxsLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdDTFRfUkVQTFlfU1RBVFVTJyA9PiBjb25maWcoJ2NvbnN0LmNsdF9yZXBseV9zdGF0dXMudW5hbnN3ZXJlZC5jb2RlJyksZGQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZTo6anNvbigkcmVzdWx0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
