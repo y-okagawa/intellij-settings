@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/contractFinish/contractFinish.jsx" timestamp="1485489487659">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="71" column="23" />
-        <mark key="." line="71" column="23" />
-        <mark key="^" line="71" column="23" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/contractFinish/contractFinish.jsx" timestamp="1485496025898">
+        <mark key="[" line="70" column="49" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="66" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/routes.php" timestamp="1485311455138">
         <mark key="[" line="41" column="34" />
@@ -31,11 +31,10 @@
         <mark key="^" line="26" column="26" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485481489507">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="67" column="15" />
-        <mark key="^" line="67" column="14" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ExtensionController.php" timestamp="1485422710705">
         <mark key="[" line="24" column="79" />
@@ -51,11 +50,6 @@
         <mark key="]" line="46" column="33" />
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485489558175">
-        <mark key="[" line="78" column="12" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/package.json" timestamp="1485488911575">
         <mark key="[" line="38" column="51" />
@@ -123,50 +117,44 @@
       <jump line="23" column="12" filename="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>category</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgY2F0ZWdvcnkgPSBzZWxmLnByb3BzLndhbnRfY2hhbmdlX2NhdGVnb3J5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>ory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9TS0lMTF9GTEcnID0+ICgkcmVxdWVzdC0+Y2F0ZWdvcnlbJ0NMVF9XQU5UX0NIQU5HRV9TS0lMTF9GTEcnXSA9PSAxKSA/IDEgOiAwLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>error['category'][key] = 0;
-                        if (data.error.category.key) {
-                            error['category'][key] = 1;
-                            error['category']['message'] = data.error.category.message;
-                        } else {
-                            error['category']['message'] = '';
-                        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgY2F0ZWdvcnkgPSBzZWxmLnByb3BzLndhbnRfY2hhbmdlX2NhdGVnb3J5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgY2F0ZWdvcnkgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKE9iamVjdC5rZXlzKGRhdGEuZXJyb3IuY2F0ZWdvcnkpLmxlbmd0aCA+IDApIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNvbHVtbl9uYW1lID0gY2F0ZWdvcnlba2V5XS5jb2x1bW5fbmFtZTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoMik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoMSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2F0ZWdvcnkubGVuZ3RoID4gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihkYXRhLmVycm9yLmNhdGVnb3J5KSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2c6OmluZm8oJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydCh0eXBlb2YgcG9zdF9lcnJvcik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKQlNUQVJfVVJMPQpCU1RBUl9QT1JUPQpCU1RBUl9VU0VSTkFNRT0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgcG9zdF9lcnJvciA9IGRhdGEuZXJyb3I7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -177,8 +165,8 @@
       <history-search />
       <history-cmd>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
