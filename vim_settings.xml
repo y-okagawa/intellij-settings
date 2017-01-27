@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/contractFinish/contractFinish.jsx" timestamp="1485497268266">
@@ -116,7 +116,7 @@
       <file name="/dummy.sql" timestamp="1485499663277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485503039262">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485503069102">
         <mark key="[" line="52" column="19" />
         <mark key="]" line="52" column="19" />
         <mark key="^" line="52" column="19" />
