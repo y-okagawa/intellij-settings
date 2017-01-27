@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/contractFinish/contractFinish.jsx" timestamp="1485422570855">
-        <mark key="[" line="43" column="50" />
-        <mark key="]" line="43" column="64" />
-        <mark key="." line="43" column="64" />
-        <mark key="^" line="43" column="64" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/contractFinish/contractFinish.jsx" timestamp="1485489487659">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="23" />
+        <mark key="^" line="71" column="23" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/routes.php" timestamp="1485311455138">
         <mark key="[" line="41" column="34" />
@@ -15,7 +15,7 @@
         <mark key="." line="41" column="36" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Api/BstarApi.php" timestamp="1485412869319">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Api/BstarApi.php" timestamp="1485480485950">
         <mark key="[" line="124" column="86" />
         <mark key="]" line="124" column="87" />
         <mark key="^" line="126" column="35" />
@@ -30,12 +30,12 @@
         <mark key="." line="26" column="26" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485417654724">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" timestamp="1485481489507">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="15" />
+        <mark key="^" line="67" column="14" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ExtensionController.php" timestamp="1485422710705">
         <mark key="[" line="24" column="79" />
@@ -52,11 +52,15 @@
         <mark key="." line="46" column="33" />
         <mark key="^" line="46" column="33" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485424696205">
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="82" column="37" />
-        <mark key="." line="82" column="37" />
-        <mark key="^" line="81" column="15" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/ContractFinishController.php" timestamp="1485489558175">
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/package.json" timestamp="1485488911575">
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="38" column="51" />
+        <mark key="." line="38" column="51" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/messages.php" timestamp="1485337931772">
         <mark key="[" line="38" column="8" />
@@ -67,21 +71,23 @@
       <file name="/a.sql" timestamp="1485334491024">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/decide/searchResult.jsx" timestamp="1485486908732" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/AppModel.php" timestamp="1485409680393" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/lang/ja/auth.php" timestamp="1485314226641" />
-      <file name="/dummy.sql" timestamp="1485396439768">
+      <file name="/dummy.sql" timestamp="1485483876410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/vendor/laravel/framework/src/Illuminate/Session/SessionManager.php" timestamp="1485313437191" />
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Console/Commands/MailInitialGuidance.php" timestamp="1485486436330" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/resources/views/decide/decide.blade.php" timestamp="1485311215281" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88bcf4df-938c-4e7d-ba5a-39c13ce4b232/console.sql" timestamp="1485395723619">
-        <mark key="[" line="0" column="1814" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/88bcf4df-938c-4e7d-ba5a-39c13ce4b232/console.sql" timestamp="1485481226485">
+        <mark key="[" line="0" column="439" />
       </file>
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/PasswordController.php" timestamp="1485423729971" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/clients/js/extension/extension.jsx" timestamp="1485414727162">
         <mark key="[" line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485424641903">
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/Intention.php" timestamp="1485482912657">
         <mark key="[" line="172" column="45" />
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
@@ -92,6 +98,7 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Models/InitialGuidance.php" timestamp="1485486472292" />
       <file name="$USER_HOME$/Dev/00_git/bstar_accept_extension/app/Http/Controllers/TopController.php" timestamp="1485395416818">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="15" />
@@ -116,41 +123,47 @@
       <jump line="23" column="12" filename="$USER_HOME$/Dev/00_git/bstar_accept_extension/.env.development" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>category</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVxdWVzdC0+VkVSU0lPTl9OVU1CRVIgKyAxOw==</text>
+        <text>category</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1dfSUQ6IHNlbGYucHJvcHMuY2xpZW50LkVYVEVOU0lPTl9DT05UUkFDVF9GT0xMT1dfSUQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NMVF9XQU5UX0NIQU5HRV9TS0lMTF9GTEcnID0+ICgkcmVxdWVzdC0+Y2F0ZWdvcnlbJ0NMVF9XQU5UX0NIQU5HRV9TS0lMTF9GTEcnXSA9PSAxKSA/IDEgOiAwLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>error['category'][key] = 0;
+                        if (data.error.category.key) {
+                            error['category'][key] = 1;
+                            error['category']['message'] = data.error.category.message;
+                        } else {
+                            error['category']['message'] = '';
+                        }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">J0NMVF9SRVBMWV9TVEFUVVMnID0+ICRjaGFuZ2VfZGF0YS0+Q0xUX1JFUExZX1NUQVRVUywKICAgICAgICAgICAgICAgICdDTFRfV0FOVF9DSEFOR0VfU0tJTExfRkxHJyA9PiAoJGNoYW5nZV9kYXRhLT5jYXRlZ29yeVsnQ0xUX1dBTlRfQ0hBTkdFX1NLSUxMX0ZMRyddID09IDEpID8gMSA6IDAsCiAgICAgICAgICAgICAgICAnQ0xUX1dBTlRfQ0hBTkdFX0VOVklST01FTlRfRkxHJyA9PiAoJGNoYW5nZV9kYXRhLT5jYXRlZ29yeVsnQ0xUX1dBTlRfQ0hBTkdFX0VOVklST01FTlRfRkxHJ10gPT0gMSkgPyAxIDogMCwKICAgICAgICAgICAgICAgICdDTFRfV0FOVF9DSEFOR0VfT1RIRVJfRkxHJyA9PiAoJGNoYW5nZV9kYXRhLT5jYXRlZ29yeVsnQ0xUX1dBTlRfQ0hBTkdFX09USEVSX0ZMRyddID09IDEpID8gMSA6IDAsCiAgICAgICAgICAgICAgICAnQ0xUX1dBTlRfQ0hBTkdFX1NZU1RFTUNIQU5HRV9GTEcnID0+ICgkY2hhbmdlX2RhdGEtPmNhdGVnb3J5WydDTFRfV0FOVF9DSEFOR0VfU1lTVEVNQ0hBTkdFX0ZMRyddID09IDEpID8gMSA6IDAsCiAgICAgICAgICAgICAgICAnQ0xUX1dBTlRfQ0hBTkdFX1dPUktESVJFQ1RfRkxHJyA9PiAoJGNoYW5nZV9kYXRhLT5jYXRlZ29yeVsnQ0xUX1dBTlRfQ0hBTkdFX1dPUktESVJFQ1RfRkxHJ10gPT0gMSkgPyAxIDogMCwKICAgICAgICAgICAgICAgICdDTFRfTUVNTycgPT4gJGNoYW5nZV9kYXRhLT5DTFRfTUVNTyw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgY2F0ZWdvcnkgPSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFsnc3VjY2Vzc19mbGcnXSA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFsndmVyc2lvbiddID0gJHJlcXVlc3QtPlZFUlNJT05fTlVNQkVSICsgMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKE9iamVjdC5rZXlzKGRhdGEuZXJyb3IuY2F0ZWdvcnkpLmxlbmd0aCA+IDApIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IGNvbHVtbl9uYW1lID0gY2F0ZWdvcnlba2V5XS5jb2x1bW5fbmFtZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXR1cm4pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ21lc3NhZ2UnXSA9IHRyYW5zKCdtZXNzYWdlcy5jb21tb24uZGF0YUNoYW5nZUZhaWxlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2F0ZWdvcnkubGVuZ3RoID4gMCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFxMb2c6OmluZm8oJGRhdGEpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRbJ3N1Y2Nlc3NfZmxnJ10gPSB0cnVlOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKQlNUQVJfVVJMPQpCU1RBUl9QT1JUPQpCU1RBUl9VU0VSTkFNRT0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
