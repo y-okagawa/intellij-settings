@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dev/git/bstar_accept_extension/app/Http/routes.php" timestamp="1485680342441" />
       <file name="$USER_HOME$/Dev/git/bstar_accept_extension/.env.development" timestamp="1485445809413">
         <mark key="[" line="22" column="26" />
         <mark key="]" line="22" column="26" />
@@ -31,8 +32,6 @@
         <mark key="." line="30" column="25" />
         <mark key="^" line="30" column="25" />
       </file>
-      <file name="$USER_HOME$/Dev/git/bstar_accept_extension/app/Http/Kernel.php" timestamp="1485446518847" />
-      <file name="$USER_HOME$/Dev/git/bstar_accept_extension/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1485446536429" />
     </filemarks>
     <jumps>
       <jump line="22" column="0" filename="$USER_HOME$/Dev/git/modern-coding-html5/grid-layout/css/style.css" />
