@@ -1,7 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../clients/js/decide/decide.jsx - [bstar_accept_extension]'" />
-    <option name="defaultScopeName" value="File '.../clients/js/decide/decide.jsx - [bstar_accept_extension]'" />
-    <option name="SEARCH_SCOPE" value="File '.../clients/js/decide/decide.jsx - [bstar_accept_extension]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
