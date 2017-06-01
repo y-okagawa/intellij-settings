@@ -2,11 +2,11 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="shift meta alt f11" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta alt f12" />
-  </action>
   <action id="DatabaseView.Tools.TruncateTableAction">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
