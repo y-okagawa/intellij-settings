@@ -1,0 +1,71 @@
+<application>
+  <component name="ScratchConfig">
+    <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="scratch.php" />
+        <option value="scratch.sql" />
+        <option value="scratch.txt" />
+        <option value="scratch.aidl" />
+        <option value="scratch.json" />
+        <option value="scratch_1.php" />
+        <option value="scratch_1.txt" />
+        <option value="scratch_2.php" />
+        <option value="scratch_2.txt" />
+        <option value="scratch_3.php" />
+        <option value="scratch_3.txt" />
+        <option value="scratch_4.php" />
+        <option value="scratch_4.txt" />
+        <option value="scratch_5.php" />
+        <option value="scratch_5.txt" />
+        <option value="scratch_6.txt" />
+        <option value="scratch_7.txt" />
+        <option value="scratch_8.txt" />
+        <option value="scratch_9.txt" />
+        <option value="scratch_10.txt" />
+        <option value="scratch_11.txt" />
+        <option value="scratch_12.txt" />
+        <option value="scratch_13.txt" />
+        <option value="scratch_14.txt" />
+        <option value="scratch_15.txt" />
+        <option value="scratch_16.txt" />
+        <option value="scratch_17.txt" />
+        <option value="scratch_18.txt" />
+        <option value="scratch_19.txt" />
+        <option value="scratch_20.txt" />
+        <option value="scratch_21.txt" />
+        <option value="scratch_22.txt" />
+        <option value="scratch_23.txt" />
+        <option value="scratch_24.txt" />
+        <option value="scratch_25.txt" />
+        <option value="scratch_26.txt" />
+        <option value="scratch_27.txt" />
+        <option value="scratch_28.txt" />
+        <option value="scratch_29.txt" />
+        <option value="scratch_30.txt" />
+        <option value="scratch_31.txt" />
+        <option value="scratch_32.txt" />
+        <option value="scratch_33.txt" />
+        <option value="scratch_34.txt" />
+        <option value="scratch_35.txt" />
+        <option value="scratch_36.txt" />
+        <option value="scratch_37.txt" />
+        <option value="scratch_38.txt" />
+        <option value="scratch_39.txt" />
+        <option value="scratch_40.txt" />
+        <option value="scratch_41.txt" />
+        <option value="scratch_42.txt" />
+        <option value="scratch_43.txt" />
+        <option value="scratch_44.txt" />
+        <option value="scratch_45.txt" />
+        <option value="scratch_46.txt" />
+        <option value="scratch_47.txt" />
+        <option value="scratch_48.txt" />
+        <option value="scratch_49.txt" />
+        <option value="scratch_50.txt" />
+        <option value="scratch_51.txt" />
+      </list>
+    </option>
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</application>
