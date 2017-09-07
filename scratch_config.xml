@@ -64,6 +64,7 @@
         <option value="scratch_49.txt" />
         <option value="scratch_50.txt" />
         <option value="scratch_51.txt" />
+        <option value="scratch_52.txt" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
