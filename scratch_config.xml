@@ -68,6 +68,7 @@
         <option value="scratch_1.sql" />
         <option value="scratch_53.txt" />
         <option value="scratch_6.php" />
+        <option value="scratch.yml" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
