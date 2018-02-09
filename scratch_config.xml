@@ -69,8 +69,11 @@
         <option value="scratch_53.txt" />
         <option value="scratch_6.php" />
         <option value="scratch.yml" />
+        <option value="scratch_1.yml" />
+        <option value="scratch_54.txt" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="scratch_54.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
