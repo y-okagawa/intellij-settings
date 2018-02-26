@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="client_signature" type="Blade" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="ctp" type="PHP" />
       <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
       <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".env.heroku" type="PLAIN_TEXT" />
