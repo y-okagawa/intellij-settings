@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="authorized_keys" type="Bash" />
+      <mapping pattern="99-server-name" type="Bash" />
       <mapping pattern="client_signature" type="Blade" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="ctp" type="PHP" />
