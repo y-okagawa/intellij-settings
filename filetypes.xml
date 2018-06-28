@@ -12,6 +12,7 @@
       <mapping pattern="ServerImageVersion" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="dc1700f7-7ed1-4b41-aa5c-891324501505" type="PLAIN_TEXT" />
+      <mapping pattern="prt-user_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="comf" type="PLAIN_TEXT" />
