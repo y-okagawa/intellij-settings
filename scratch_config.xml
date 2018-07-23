@@ -124,9 +124,12 @@
         <option value="scratch_5.sql" />
         <option value="scratch_5.json" />
         <option value="scratch_89.txt" />
+        <option value="scratch_2.sh" />
+        <option value="scratch_6.sql" />
+        <option value="scratch_8.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_5.sql" />
+    <option name="lastOpenedScratch" value="scratch_2.sh" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
