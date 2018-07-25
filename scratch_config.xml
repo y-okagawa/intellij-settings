@@ -127,6 +127,11 @@
         <option value="scratch_2.sh" />
         <option value="scratch_6.sql" />
         <option value="scratch_8.php" />
+        <option value="scratch.js" />
+        <option value="scratch_2.es6" />
+        <option value="scratch_3.es6" />
+        <option value="scratch_9.php" />
+        <option value="scratch_90.txt" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="scratch_2.sh" />
