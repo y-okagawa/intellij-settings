@@ -132,9 +132,12 @@
         <option value="scratch_3.es6" />
         <option value="scratch_9.php" />
         <option value="scratch_90.txt" />
+        <option value="scratch_5.yml" />
+        <option value="scratch_91.txt" />
+        <option value="scratch_92.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_9.php" />
+    <option name="lastOpenedScratch" value="scratch_92.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
