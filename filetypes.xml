@@ -2,7 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="authorized_keys" type="Bash" />
+      <mapping pattern="99-server-name" type="Bash" />
+      <mapping ext="service" type="Bash" />
+      <mapping pattern="client_signature" type="Blade" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="InMemoryEstimateRepository.php" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
       <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
@@ -17,13 +22,9 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="Ruby" />
       <mapping ext="dump" type="SQL" />
       <mapping ext="template" type="YAML" />
-      <mapping ext="service" type="Bash" />
-      <mapping pattern="99-server-name" type="Bash" />
-      <mapping pattern="Vagrantfile" type="Ruby" />
-      <mapping pattern="authorized_keys" type="Bash" />
-      <mapping pattern="client_signature" type="Blade" />
     </extensionMap>
   </component>
 </application>
