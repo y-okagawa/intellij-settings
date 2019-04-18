@@ -254,9 +254,10 @@
         <option value="scratch_8.yml" />
         <option value="scratch_15.sql" />
         <option value="scratch_189.txt" />
+        <option value="scratch_190.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_8.yml" />
+    <option name="lastOpenedScratch" value="scratch_190.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
