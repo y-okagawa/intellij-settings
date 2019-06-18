@@ -283,9 +283,16 @@
         <option value="scratch_1.md" />
         <option value="scratch_1.env" />
         <option value="scratch_209.txt" />
+        <option value="scratch_1.js" />
+        <option value="scratch_4.es6" />
+        <option value="scratch_9.yml" />
+        <option value="scratch_210.txt" />
+        <option value="scratch_211.txt" />
+        <option value="scratch_212.txt" />
+        <option value="scratch_213.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_209.txt" />
+    <option name="lastOpenedScratch" value="scratch_1.js" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
