@@ -308,9 +308,11 @@
         <option value="scratch_224.txt" />
         <option value="scratch_225.txt" />
         <option value="scratch_226.txt" />
+        <option value="scratch_227.txt" />
+        <option value="scratch_228.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_220.txt" />
+    <option name="lastOpenedScratch" value="scratch_228.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
