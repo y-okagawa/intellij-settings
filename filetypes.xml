@@ -7,6 +7,7 @@
       <mapping pattern="client_signature" type="Blade" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="InMemoryEstimateRepository.php" type="PHP" />
       <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
       <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
