@@ -368,9 +368,10 @@
         <option value="scratch.go" />
         <option value="scratch_1.go" />
         <option value="scratch_271.txt" />
+        <option value="scratch_10.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_268.txt" />
+    <option name="lastOpenedScratch" value="scratch_10.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
