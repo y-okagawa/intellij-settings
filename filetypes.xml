@@ -4,29 +4,23 @@
       <mapping pattern="authorized_keys" type="Bash" />
       <mapping pattern="99-server-name" type="Bash" />
       <mapping ext="service" type="Bash" />
-      <mapping pattern="client_signature" type="Blade" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="InMemoryEstimateRepository.php" type="PHP" />
-      <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
-      <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern=".env.heroku" type="PLAIN_TEXT" />
       <mapping pattern="ServerImageVersion" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="dc1700f7-7ed1-4b41-aa5c-891324501505" type="PLAIN_TEXT" />
       <mapping pattern="prt-user_rsa" type="PLAIN_TEXT" />
-      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
-      <mapping ext="comf" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.heroku" type="PLAIN_TEXT" />
+      <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="comf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="Ruby" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="dump" type="SQL" />
       <mapping ext="template" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -36,6 +30,9 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Vagrantfile" type="Ruby" />
+      <mapping pattern="client_signature" type="Blade" />
+      <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
 </application>
