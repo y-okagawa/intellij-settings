@@ -8,6 +8,7 @@
       <mapping pattern="InMemoryEstimateRepository.php" type="PHP" />
       <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
       <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="dlv" type="PLAIN_TEXT" />
       <mapping pattern=".env.heroku" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="ServerImageVersion" type="PLAIN_TEXT" />
