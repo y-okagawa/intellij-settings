@@ -6,10 +6,10 @@
       <mapping ext="service" type="Bash" />
       <mapping pattern="client_signature" type="Blade" />
       <mapping pattern="InMemoryEstimateRepository.php" type="PHP" />
-      <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
       <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="dlv" type="PLAIN_TEXT" />
       <mapping pattern=".env.heroku" type="PLAIN_TEXT" />
+      <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="ServerImageVersion" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
@@ -21,9 +21,8 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="Ruby" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="dump" type="SQL" />
       <mapping ext="template" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
@@ -33,6 +32,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="Vagrantfile" type="Ruby" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
