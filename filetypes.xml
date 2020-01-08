@@ -5,6 +5,7 @@
       <mapping pattern="authorized_keys" type="Bash" />
       <mapping ext="service" type="Bash" />
       <mapping pattern="client_signature" type="Blade" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="InMemoryEstimateRepository.php" type="PHP" />
       <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="dlv" type="PLAIN_TEXT" />
