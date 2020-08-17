@@ -487,16 +487,19 @@
         <option value="scratch_366.txt" />
         <option value="scratch_35.sql" />
         <option value="scratch_367.txt" />
-        <option value="scratch" />
         <option value="scratch_368.txt" />
         <option value="scratch_369.txt" />
         <option value="scratch_370.txt" />
         <option value="scratch_371.txt" />
         <option value="scratch_372.txt" />
         <option value="scratch_373.txt" />
+        <option value="scratch" />
+        <option value="scratch_374.txt" />
+        <option value="scratch_375.txt" />
+        <option value="scratch_376.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_363.txt" />
+    <option name="lastOpenedScratch" value="scratch_376.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
