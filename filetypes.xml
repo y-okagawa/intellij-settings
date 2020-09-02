@@ -4,6 +4,7 @@
       <mapping pattern="client_signature" type="Blade" />
       <removed_mapping pattern="composer.lock" approved="true" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="dc1700f7-7ed1-4b41-aa5c-891324501505" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="dlv" type="PLAIN_TEXT" />
