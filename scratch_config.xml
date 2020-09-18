@@ -521,11 +521,11 @@
         <option value="scratch_4.json5" />
         <option value="scratch_5.json5" />
         <option value="scratch.blade_3.php" />
-        <option value="scratch" />
         <option value="scratch.html" />
+        <option value="scratch" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_382.txt" />
+    <option name="lastOpenedScratch" value="scratch.html" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
