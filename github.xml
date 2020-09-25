@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="3c3e3023-2c76-4b52-9e48-e7f1a0ce232d" name="okagaway">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="okagaway@b-style.net" />
     <option name="AUTH_TYPE" value="BASIC" />
