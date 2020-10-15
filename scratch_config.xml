@@ -543,13 +543,18 @@
         <option value="scratch_402.txt" />
         <option value="scratch_403.txt" />
         <option value="scratch_404.txt" />
-        <option value="scratch" />
         <option value="scratch_405.txt" />
         <option value="scratch_406.txt" />
         <option value="scratch_407.txt" />
+        <option value="scratch" />
+        <option value="scratch_1" />
+        <option value="scratch_2" />
+        <option value="scratch_29.php" />
+        <option value="scratch_4.html" />
+        <option value="scratch_408.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_330.txt" />
+    <option name="lastOpenedScratch" value="scratch_29.php" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
