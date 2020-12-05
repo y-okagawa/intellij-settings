@@ -15,8 +15,8 @@
       <mapping pattern="github_id_rsa" type="PLAIN_TEXT" />
       <mapping pattern=".env.heroku" type="PLAIN_TEXT" />
       <mapping pattern="prt-user_rsa" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="CreateBstarTable.php" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="ServerImageVersion" type="PLAIN_TEXT" />
       <mapping ext="comf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
