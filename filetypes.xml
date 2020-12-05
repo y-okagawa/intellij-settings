@@ -1,8 +1,7 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="client_signature" type="Blade" />
-      <removed_mapping pattern="composer.lock" approved="true" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="dc1700f7-7ed1-4b41-aa5c-891324501505" type="PLAIN_TEXT" />
@@ -23,19 +22,16 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="dump" type="SQL" />
-      <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
       <mapping ext="template" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="composer.lock" approved="true" type="JSON" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern="composer.lock" approved="true" type="JSON" />
+      <removed_mapping pattern="phpunit.xml.dist" approved="true" type="XML" />
       <mapping ext="service" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="99-server-name" type="Bash" />
