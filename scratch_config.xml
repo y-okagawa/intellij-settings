@@ -591,6 +591,7 @@
         <option value="scratch" />
         <option value="scratch_1" />
         <option value="scratch_2" />
+        <option value="scratch_438.txt" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
