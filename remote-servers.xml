@@ -6,5 +6,10 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker for part" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://development.shufu-job.jp:2375" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
