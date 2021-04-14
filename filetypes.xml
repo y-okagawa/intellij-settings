@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="client_signature" type="Blade" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="dc1700f7-7ed1-4b41-aa5c-891324501505" type="PLAIN_TEXT" />
@@ -37,6 +37,7 @@
       <mapping pattern="99-server-name" type="Bash" />
       <mapping pattern="Vagrantfile" type="Ruby" />
       <mapping pattern="authorized_keys" type="Bash" />
+      <mapping pattern="client_signature" type="Blade" />
       <mapping pattern="ignore" type="Git exclude file" />
     </extensionMap>
   </component>
